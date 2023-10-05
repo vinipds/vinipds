@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 My name is Vinícius, i am 21 years old, and i'm currently studying programming with focus in **BackEnd** at Cubos Academy, and i'm from Brazil. 
-I hope to get better day after day.
+I just trying to be better than i was yesterday.
 
 ### Languages and technologies 
 
-
-![Express.js]({https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white}) 
-
-
-![JavaScript]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+**JavaScript** | **Node.js** | **express.js** | **Git**
