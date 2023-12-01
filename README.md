@@ -5,4 +5,4 @@ I just trying to be better than i was yesterday.
 
 ### Languages and technologies 
 
-**JavaScript** | **Node.js** | **express.js** | **Git**
+**JavaScript** | **Node.js** | **express.js** | **Git** | **PostresSQL**
